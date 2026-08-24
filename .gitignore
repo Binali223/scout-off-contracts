@@ -19,7 +19,6 @@ migration-export/
 Thumbs.db
 
 # Editor
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -76,3 +75,7 @@ pnpm-lock.yaml
 # Calibration artifacts (local only)
 calibration-report.json
 budget-drift.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
